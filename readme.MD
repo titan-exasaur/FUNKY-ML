@@ -32,4 +32,3 @@ ml-project/
 - matplotlib, seaborn
 - joblib/pickle
 - Flask or Streamlit
-
